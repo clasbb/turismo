@@ -1,0 +1,127 @@
+lement.style {
+}
+
+user agent stylesheet
+div {
+    display: block;
+    background: #eee;
+    opacity: 0;
+    padding: 16px;
+    position: relative;
+    text-align: initial;
+    width: calc(100% - (2*16px));
+}
+.tWJQl {
+    background: #eee;
+    opacity: 0;
+    padding: 16px;
+    position: relative;
+    text-align: initial;
+    width: calc(100% - (2*16px));
+}
+.U4rdx {
+    min-height: 396px;
+    text-align: center;
+    width: 100%;
+}
+.CQYfx {
+    font: 400 14px/20px Roboto,Arial,sans-serif;
+    letter-spacing: .2px;
+    color: var( --travel-color-token-on-surface-de-emphasis );
+}
+body {
+    background: var(--travel-color-token-surface);
+    margin: 0;
+    -webkit-font-smoothing: auto;
+}
+body {
+    height: 100%;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0,0,0,.87);
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    margin: 0;
+    text-size-adjust: 100%;
+}
+
+body {
+  background-color: var(--cor-amarelo);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*---------------------------------Header---------------------------------*/
+
+header {
+  background-color: var(--cor-azulclaro);
+}
+
+.header-container {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+}
+
+.header-logo img {
+  width: 100%;
+}
+
+.header-logo {
+  width: 150px;
+}
+
+.header-menu {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.header-nav-link {
+  color: black;
+  text-decoration: none;
+  margin-left: 10px;
+  font-size: 1.1em;
+  padding: 10px;
+}
+
+.header-nav-link:hover {
+  color: var(--cor-rosa-escuro);
+  border-radius: 20px;
+}
+
+
+.nav-inicio:hover {
+  background-color: var(--cor-rosa-bb);
+
+}
+
+.nav-quem-somos:hover {
+  background-color: var(--cor-amarelo);
+
+}
+
+.nav-missao:hover {
+  background-color: var(--cor-rosa-bb);
+
+}
+
+.nav-produtos:hover {
+  background-color: var(--cor-amarelo);
+}
+
+.nav-localizacao:hover {
+ background-color: var(--cor-rosa-bb);
+}
+
